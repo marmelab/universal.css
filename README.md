@@ -5,7 +5,7 @@ The only CSS you will ever need.
 ## Features:
 
 * Self-documented classnames
-* Zero dependency
+* Zero dependencies
 * Classnames are reusable accross projects
 * Removes the need for a CSS preprocessor
 * Removes the need for a CSS bundler
