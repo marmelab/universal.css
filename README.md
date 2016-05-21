@@ -70,6 +70,8 @@ After:
 /* Nothing! */
 ```
 
+[Check out our demo](http://jsbin.com/mahimemiti/edit?html,output)
+
 ## FAQ
 
 **Where is the documentation?**
