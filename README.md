@@ -19,7 +19,7 @@ The only CSS you will ever need.
 Insert this one line in your HTML source file:
 
 ```html
-<link rel="stylesheet" src="https://rawgit.com/marmelab/universal.css/universal.css" />
+<link rel="stylesheet" src="https://cdn.rawgit.com/marmelab/universal.css/master/universal.css" />
 ```
 
 Then you can change the CSS classes in your HTML to **universal CSS classes**:
@@ -100,7 +100,7 @@ We use a smart CSS generator, based on statistical analysis of most used CSS rul
 You're covered! If you don't want your users to download a large CSS file, replace the `<link>` tag with a `<script>` tag:
 
 ```html
-<script src="https://rawgit.com/marmelab/universal.css/universalCssGenerator.js" />
+<script src="https://cdn.rawgit.com/marmelab/universal.css/master/universalCssGenerator.js" />
 ```
 
 That's right! Our generator works both in the backend and in the frontend - it is truly universal. The JavaScript file is much lighter, and will load very quickly. Once loaded, it generates the universal.css styles directly in the browser.
