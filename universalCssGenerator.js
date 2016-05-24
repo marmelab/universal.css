@@ -1,3 +1,9 @@
+/**
+ * @file Universal css generator
+ * @see https://github.com/marmelab/universal.css
+ * @license magnet:?xt=urn:btih:7098a6ece7bd2a0eb9c4b47034f7d4358af5f29b&dn=WTFPL.txt
+ */
+
 var styleElement;
 var styleContent;
 var oldconsole = console;
