@@ -117,7 +117,9 @@ We're studying the question, please open an issue if you have a good idea about 
 
 **Where did you get the inspiration from?**
 
-Bootstrap V4 recently introduced [spacing utility classes](http://v4-alpha.getbootstrap.com/components/utilities/#spacing) like `m-t-1` (which translates to `margin-top: 1rem!important`), and we thought we'd expand this idea to more classes. Maybe we don't need universal when Bootstrap V4 is out, include [display](http://v4-alpha.getbootstrap.com/components/utilities/#css-display-block-inline-inline-block) utility, just the color, and boostrap is universal
+Bootstrap V4 recently introduced [spacing utility classes](https://v4-alpha.getbootstrap.com/utilities/spacing/) like `m-t-1` (which translates to `margin-top: 1rem!important`), and we thought we'd expand this idea to more classes. 
+
+Maybe we don't need universal when Bootstrap V4 is out, include [display](https://v4-alpha.getbootstrap.com/utilities/display-property/) utility, and boostrap is universal. Just some more [colors](https://v4-alpha.getbootstrap.com/utilities/colors/)
 
 **Is this a joke?**
 
