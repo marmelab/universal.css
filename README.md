@@ -119,8 +119,6 @@ We're studying the question, please open an issue if you have a good idea about 
 
 Bootstrap V4 recently introduced [spacing utility classes](https://v4-alpha.getbootstrap.com/utilities/spacing/) like `m-t-1` (which translates to `margin-top: 1rem!important`), and we thought we'd expand this idea to more classes. 
 
-Maybe we don't need universal when Bootstrap V4 is out, include [display](https://v4-alpha.getbootstrap.com/utilities/display-property/) utility, and boostrap is universal. Just some more [colors](https://v4-alpha.getbootstrap.com/utilities/colors/)
-
 **Is this a joke?**
 
 Of course it's a joke. Use [semantic CSS class names](http://maintainablecss.com/).
