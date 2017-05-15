@@ -117,7 +117,7 @@ We're studying the question, please open an issue if you have a good idea about 
 
 **Where did you get the inspiration from?**
 
-Bootstrap V4 recently introduced [spacing utility classes](http://v4-alpha.getbootstrap.com/components/utilities/#spacing) like `m-t-1` (which translates to `margin-top: 1rem!important`), and we thought we'd expand this idea to more classes.
+Bootstrap V4 recently introduced [spacing utility classes](https://v4-alpha.getbootstrap.com/utilities/spacing/) like `m-t-1` (which translates to `margin-top: 1rem!important`), and we thought we'd expand this idea to more classes. 
 
 **Is this a joke?**
 
