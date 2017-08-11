@@ -175,7 +175,7 @@ const borderStyles = [
     'inherit',
     'initial',
     'inset',
-    'lone',
+    'none',
     'outset',
     'ridge',
     'solid',
@@ -219,6 +219,14 @@ const displays = [
     'table-row-group',
 ];
 
+console.log('/**');
+console.log(' * universal.css');
+console.log(' *');
+console.log(' * The only CSS you will ever need.');
+console.log(' *');
+console.log(' * @see https://github.com/marmelab/universal.css');
+console.log(' * @license WTFPL');
+console.log(' */');
 
 const emStep = 0.01;
 const emNbDigits = 2;
